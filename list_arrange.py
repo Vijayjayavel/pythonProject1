@@ -1,0 +1,10 @@
+actors=['vijay','kamal','ajith','dhanush']
+print('here is the tamil industry actors: ')
+print(actors)
+print('\nhere is the sorted list:')
+actors=sorted(actors)
+print(actors)
+print('\nhere is the reversed vesion: ')
+actors.sort(reverse=True)
+print(actors)
+len(actors)

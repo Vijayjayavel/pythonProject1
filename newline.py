@@ -1,0 +1,1 @@
+print('name:\n\tvijay\n\tjayavel')
