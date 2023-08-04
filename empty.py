@@ -11,8 +11,3 @@ while True:
         print(n2)
         n1+=1
         i+=1
-
-
-
-
-
